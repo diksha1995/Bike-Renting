@@ -1,2 +1,2 @@
 # Bike-Renting
-This is my Bike Renting Project Of Data Science
+Data Analytics Project to predict the bike rental count on daily based.
